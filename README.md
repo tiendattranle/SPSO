@@ -5,7 +5,7 @@
 ### 1. Clone Repository
 - Clone repository từ GitHub bằng lệnh sau:
     ```bash
-    git clone https://github.com/anhkhoa2174/Software-Engineering-Assignment-Group-13
+    git clone https://github.com/tiendattranle/SPSO
     ```
 - **Lưu ý**: Nếu sử dụng folder dạng `.zip` tải về, bạn chỉ cần giải nén và bỏ qua bước này.
 
@@ -14,7 +14,7 @@
 ### 2. Điều Hướng vào Thư Mục Dự Án
 - Di chuyển vào thư mục chứa dự án đã clone:
     ```bash
-    cd Software-Engineering-Assignment-Group-13
+    cd SPSO
     ```
 
 ---

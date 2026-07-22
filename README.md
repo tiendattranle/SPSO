@@ -1,4 +1,4 @@
-# Software Engineering Assignment - Group 13
+# Software Engineering Assignment - Group 13: SPSO
 
 ## Project Setup Instructions
 
